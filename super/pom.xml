@@ -115,7 +115,7 @@
     <jackson-databind.version>2.10.5.1</jackson-databind.version>
     <cxf.version>3.4.1</cxf.version>
     <quartz.version>2.3.2</quartz.version>
-    <hikaricp.version>3.4.5</hikaricp.version>
+    <hikaricp.version>5.0.1</hikaricp.version>
     <micrometer.version>1.6.3</micrometer.version>
     <protobuf.version>2.4.1</protobuf.version>
     <guava.version>29.0-jre</guava.version>
